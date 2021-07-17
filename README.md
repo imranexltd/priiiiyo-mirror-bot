@@ -1,6 +1,6 @@
-[![Priiiiyo](https://telegra.ph/file/b5d9a2910d65ce0596f59.jpg)](https://t.me/PriiiiyoMirror)
+[![iCloud](https://store.imranex.com/wp-content/uploads/2021/03/l01-1.png)](https://t.me/bdix24)
 
-# Priiiiyo Mirror Bot
+# iCloud Mirror Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/priiiiyo/priiiiyo-mirror-bot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/priiiiyo/priiiiyo-mirror-bot?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/priiiiyo/priiiiyo-mirror-bot)
@@ -12,7 +12,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/priiiiyo/mega-sdk-python?label=Docker%20Pull)
 [![Channel](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/PriiiiyoMirror)
 
-**Priiiiyo Mirror Bot** Is A Telegram Bot which can mirror all your links to Google Drive! This is the Modified Version.
+**iCloud Mirror Bot** Is A Telegram Bot which can mirror all your links to Google Drive! This is the Modified Version.
 
 # Features supported:
 <details>
